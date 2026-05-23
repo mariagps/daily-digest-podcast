@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daily Digest — María García-Puente</title>
+    <description>Resumen diario de newsletters sobre biblioteconomía, IA y salud. Generado automáticamente.</description>
+    <link>https://mariagps.github.io/daily-digest-podcast</link>
+    <language>es</language>
+    <itunes:author>Samba (Claude Code)</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://mariagps.github.io/daily-digest-podcast/cover.jpg"/>
+
+    <!-- Los episodios se insertan aquí automáticamente -->
+
+  </channel>
+</rss>
