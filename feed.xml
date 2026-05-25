@@ -28,6 +28,15 @@
       <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-24.mp3</guid>
     </item>
 
+
+    <item>
+      <title>Digest del 25 de mayo de 2026</title>
+      <description>2 newsletters curadas: IA amplifica el trabajo (Dan Shipper), arXiv prohibirá referencias alucinadas por IA</description>
+      <pubDate>Mon, 25 May 2026 07:43:14 +0200</pubDate>
+      <enclosure url="https://mariagps.github.io/daily-digest-podcast/digest-2026-05-25.mp3" length="3424845" type="audio/mpeg"/>
+      <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-25.mp3</guid>
+    </item>
+
     <!-- Los episodios se insertan aquí automáticamente -->
 
   </channel>
