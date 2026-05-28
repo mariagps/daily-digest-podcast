@@ -64,6 +64,15 @@
       <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-27.mp3</guid>
     </item>
 
+
+    <item>
+      <title>Digest del 28 de mayo de 2026</title>
+      <description>7 temas curados · 28 de mayo de 2026</description>
+      <pubDate>Thu, 28 May 2026 09:02:20 +0200</pubDate>
+      <enclosure url="https://mariagps.github.io/daily-digest-podcast/digest-2026-05-28.mp3" length="6647085" type="audio/mpeg"/>
+      <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-28.mp3</guid>
+    </item>
+
     <!-- Los episodios se insertan aquí automáticamente -->
 
   </channel>
