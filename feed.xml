@@ -91,6 +91,15 @@
       <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-29.mp3</guid>
     </item>
 
+
+    <item>
+      <title>Digest del 30 de mayo de 2026</title>
+      <description>9 temas curados · 30 de mayo de 2026</description>
+      <pubDate>Sun, 31 May 2026 08:23:32 +0200</pubDate>
+      <enclosure url="https://mariagps.github.io/daily-digest-podcast/digest-2026-05-30.mp3" length="4679853" type="audio/mpeg"/>
+      <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-30.mp3</guid>
+    </item>
+
     <!-- Los episodios se insertan aquí automáticamente -->
 
   </channel>
