@@ -100,6 +100,15 @@
       <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-05-30.mp3</guid>
     </item>
 
+
+    <item>
+      <title>Digest del 2 de junio de 2026</title>
+      <description>9 temas curados · 2 de junio de 2026</description>
+      <pubDate>Tue, 02 Jun 2026 11:43:28 +0200</pubDate>
+      <enclosure url="https://mariagps.github.io/daily-digest-podcast/digest-2026-06-02.mp3" length="11050413" type="audio/mpeg"/>
+      <guid>https://mariagps.github.io/daily-digest-podcast/digest-2026-06-02.mp3</guid>
+    </item>
+
     <!-- Los episodios se insertan aquí automáticamente -->
 
   </channel>
